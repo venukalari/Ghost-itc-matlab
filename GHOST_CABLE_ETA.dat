@@ -1,3 +1,8 @@
+Provide value(s) of throughput for GHOST Cass unit and science cable, based on
+results from Ross Zhelem 21 May 2019. The throughput includes Cass unit
+(telecentricity lens and ADC) and fibre cable + microlens arrays at both ends,
+but not any aperture losses. This routine uses spline fits to interpolate.
+
 350   	0.3760
 352	0.3910
 354	0.4060
